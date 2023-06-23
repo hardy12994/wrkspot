@@ -1,4 +1,5 @@
-export default [
+
+const countryList = [
   {
     "abbreviation": "BD",
     "capital": "Dhaka",
@@ -3464,3 +3465,5 @@ export default [
     "id": 250
   }
 ];
+
+export default countryList;
