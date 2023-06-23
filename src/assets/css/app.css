@@ -1,0 +1,28 @@
+#paginationSection {
+  margin-top: 2rem;
+}
+
+#p-button {
+  background-color: #8a84ea;
+  color: white;
+  border: none;
+  padding: 0.8rem;
+  border-radius: 0.15rem;
+  margin-right: 1rem;
+}
+
+#p-button:disabled {
+  background-color: grey;
+}
+
+#n-button {
+  background-color: #8a84ea;
+  color: white;
+  border: none;
+  padding: 0.8rem;
+  border-radius: 0.15rem;
+}
+
+#n-button:disabled {
+  background-color: grey;
+}

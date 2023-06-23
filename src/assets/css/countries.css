@@ -1,0 +1,80 @@
+#country-section {
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+#get-countries-btn {
+  background-color: #8a84ea;
+  color: white;
+  border: none;
+  padding: 0.8rem;
+  border-radius: 0.15rem;
+}
+
+#clear {
+  color: #8a84ea;
+  margin-left: 2rem;
+  background-color: transparent;
+  border: none;
+  font-weight: 600;
+}
+
+table {
+  width: 100%;
+  border: 1px solid lightgray;
+  padding: 10px;
+  border-collapse: collapse;
+}
+
+th {
+  text-align: left;
+  padding: 7px;
+  border: 1px solid lightgray;
+}
+
+td {
+  text-align: left;
+  padding: 7px;
+  border: 1px solid lightgray;
+}
+
+#heading {
+  font-weight: 700;
+}
+
+#filter {
+  margin-bottom: 3.5rem;
+}
+
+#filter input {
+  padding: 0.3rem 0.5rem;
+  width: 15rem;
+  height: 3rem;
+  border: 1px solid lightgray;
+  margin-right: 30px;
+}
+
+#filter select {
+  width: 15rem;
+  padding: .3rem .5rem;
+  height: 3rem;
+  border: 1px solid lightgray;
+}
+
+#filter option {
+  width: 12rem;
+  padding: .3rem .5rem;
+  height: 2.65rem;
+  border: 1px solid lightgray;
+}
+
+
+
+
+
+
+
+
+
+
+
