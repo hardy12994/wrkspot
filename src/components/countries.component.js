@@ -30,8 +30,8 @@ export default function CountriesComponent(props) {
           <th>Population</th>
           <th>Flag</th>
         </tr>
-        {countryList.length > 0 && countryList.map((countryData, index) => (
-          <tr key={index}>
+        {countryList.length > 0 && countryList.map((countryData) => (
+          <tr key={countryData.name}>
             <td>{countryData.name}</td>
             <td>{countryData.abbreviation}</td>
             <td>{countryData.capital}</td>
