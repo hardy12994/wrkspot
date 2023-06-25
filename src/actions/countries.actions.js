@@ -15,7 +15,6 @@ const setTotalCountryCount = createAction(SET_TOTAL_COUNTRY_COUNT);
 
 
 const getFromMockList = (params) => {
-  debugger;
   const { population, countryName, pageNumber, pageSize  } = params;
   let searchFromList = CountryMockList;
 
